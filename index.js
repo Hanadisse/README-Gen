@@ -45,11 +45,6 @@ const questions = [
         type: "input",
         message: "How did you test your application?",
         name: "test"
-    },
-    {
-        type: "input",
-        message: "What is your email?",
-        name: "questions"
     }
 ];
 

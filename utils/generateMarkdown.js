@@ -81,7 +81,7 @@ ${data.credits}
 ${renderLicenseSection(data)}
 
 ## Questions
-${data.questions}
+If you have any questions, you can contact ${data.credits} at: ${data.questions}
 
 ## Test
 ${data.test}
